@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Business of all types and sizes want to provide multiple ways for their potential
+* Business of all types and sizes want to provide multiple ways for their potential
 customers to contact them.  One of the most common ways to do this is on a website is to provide
 a _contact form_.
 
